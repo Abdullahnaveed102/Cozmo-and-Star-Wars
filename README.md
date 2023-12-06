@@ -41,3 +41,9 @@ Welcome to Cozmo's Star Wars Odyssey! This project enriches Cozmo's interactive 
 - Limited dataset may affect adaptability.
 - ChatGPT integration introduces cost considerations.
 - Cozmo's limited battery life affects interaction duration.
+
+## Code Execution
+
+- In code to run this project, you will need a Cozmo Robot
+- You will have to run the Python script in the Trainin_model folder to train the model
+- Copy the saved model to the main_code folder and run predict.py 
