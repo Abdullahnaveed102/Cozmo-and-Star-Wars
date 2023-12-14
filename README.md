@@ -1,6 +1,15 @@
 # Cozmo-and-Star-Wars
 Cozmo's Star Wars Odyssey - A project integrating computer vision for character recognition, ChatGPT for storytelling, and user queries, enhancing Cozmo's interactive abilities in the Star Wars universe. Check out the code and documentation for a Captivating Cozmo experience!
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Goals](#goals)
+3. [Development Steps](#development-steps)
+4. [Challenges](#challenges)
+5. [Technical Details](#technical-details)
+6. [Code Execution](#code-execution)
+
 ## Introduction
 
 Welcome to Cozmo's Star Wars Odyssey! This project enriches Cozmo's interactive capabilities by incorporating computer vision for recognizing Star Wars characters. The README provides an overview of the project, development steps, challenges, and technical details.
