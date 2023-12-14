@@ -7,7 +7,7 @@ Cozmo's Star Wars Odyssey - A project integrating computer vision for character 
 2. [Goals](#goals)
 3. [Development Steps](#development-steps)
 4. [Challenges](#challenges)
-5. [Technical Details](#technical-details)
+5. [Python Libraries Required](#python-libraries-required)
 6. [Limitations](#limitations)
 7. [Code Execution](#code-execution)
 
@@ -37,7 +37,7 @@ Welcome to Cozmo's Star Wars Odyssey! This project enriches Cozmo's interactive 
 3. **Selecting Model and Layers:** Explored architectures for optimal model selection.
 4. **Parallel Execution:** Managed internet connectivity constraints for ChatGPT integration.
 
-## Technical Details
+## Python Libraries Required
 
 - **Robot Interaction:** Cozmo library
 - **Image Processing:** cv2 (OpenCV), PIL
