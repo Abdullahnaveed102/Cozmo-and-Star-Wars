@@ -8,7 +8,8 @@ Cozmo's Star Wars Odyssey - A project integrating computer vision for character 
 3. [Development Steps](#development-steps)
 4. [Challenges](#challenges)
 5. [Technical Details](#technical-details)
-6. [Code Execution](#code-execution)
+6. [Limitations](#limitations)
+7. [Code Execution](#code-execution)
 
 ## Introduction
 
